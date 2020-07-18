@@ -5,10 +5,6 @@
 
 ## Table of Contents
 - [Book List](#book-list)
-- [Before you Get Started](#before-you-get-started)
-- [What you Won't See Covered](#what-you-wont-see-covered)
-- [Prerequisite Knowledge](#prerequisite-knowledge)
-- [The Daily Plan](#the-daily-plan)
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
     - [Arrays](#arrays)
